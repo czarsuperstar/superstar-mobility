@@ -1,0 +1,32 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+.center{
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+p,a {
+  font-family:"Work Sans";
+}
+h1,h2,h3,h4,h5,h6{
+  font-family:"Inconsolata"
+}
+.largebr {
+		display: block;
+		margin-bottom: 20em;
+}
+.mlargebr{
+		display: block;
+		margin-bottom: 10em;
+}
+.mediumbr{
+			display: block;
+		margin-bottom: 5em;
+}
+.smallbr{
+			display: block;
+		margin-bottom: 2.5em;
+}
